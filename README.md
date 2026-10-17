@@ -2,9 +2,11 @@
 
 **Technical leader in DevOps & Developer Experience**
 
-I'm a hands-on engineering leader and generalist based in **Eindhoven, the Netherlands**, with 20 years of experience building production systems and internal platforms. My work spans cloud infrastructure, DevOps, site reliability, platform engineering, and developer experience.
+I'm a hands-on engineering leader based in **Eindhoven, the Netherlands**, with 20+ years of experience building production systems and internal platforms. 
 
-As **DevEx Tech Lead at Brenntag**, I set technical direction for developer platforms serving **25+ teams and 350+ engineers**. I work with development, data, and security teams to turn delivery friction into platform roadmap priorities, own technical decisions, and mentor engineers across distributed teams.
+My work spans over cloud infrastructure, DevOps, site reliability, platform engineering, and developer experience.
+
+As **DevEx Tech Lead at Brenntag**, I set technical direction for developer platforms serving **300+ engineers**. I work with development, data, and security teams to turn delivery friction into platform roadmap priorities, own technical decisions, and mentor engineers across distributed teams.
 
 I improve developer productivity and operational reliability through CI/CD, observability, cloud automation, and SRE practices. AI-assisted development is also part of how I build: I use Cursor, Claude Code, and AWS Kiro, with an interest in precise specifications and governed adoption across engineering and broader knowledge teams.
 
@@ -25,12 +27,12 @@ Earlier work includes leading IT infrastructure at **inConcert** and roles at HG
 | Area | Tools and technologies |
 | --- | --- |
 | Cloud & infrastructure | AWS, Azure, Kubernetes / EKS, Terraform, CloudFormation, Linux |
-| Delivery & automation | GitLab CI/CD, Azure DevOps, Bitbucket Pipelines, Ansible, Docker, GitOps |
+| Delivery & automation | GitLab CI/CD,Github Actions, Azure DevOps, Bitbucket Pipelines, Ansible, Docker, ArgoCD GitOps |
 | Developer platforms & security | JFrog Artifactory, Atlassian, Snyk, SDLC scanning, governance, platform standards |
 | Application development | Python, JavaScript, TypeScript, Node.js, Next.js, React, Tailwind CSS |
-| Data & applications | PostgreSQL, Supabase, MongoDB, serverless architectures |
+| Data & applications | PostgreSQL, Supabase, MongoDB, Couchbase, serverless architectures |
 | Reliability & observability | SLIs / SLOs, error budgets, incident management, postmortems, on-call, APM, distributed tracing |
-| AI-assisted development | Cursor, Claude Code, AWS Kiro, MCP, specification-driven workflows |
+| AI-assisted development | Cursor, Claude Code, AWS Kiro, MCP Management, specification-driven workflows |
 
 ## Certifications & learning
 
@@ -42,7 +44,7 @@ Earlier work includes leading IT infrastructure at **inConcert** and roles at HG
 
 ## Writing & interests
 
-I write about engineering, tools, and lessons learned from building systems. My interests include AI-assisted software engineering, practical agent memory, and making knowledge easier to capture and share. I use Obsidian for notes and continuous learning.
+I write about engineering, tools, and lessons learned from building systems. My interests include AI-assisted software engineering, practical agent memory, and making knowledge easier to capture and share.
 
 Find my writing at **[alfonsograna.com](https://alfonsograna.com)**. I work in English, am a native Spanish speaker, and speak Dutch at A2 level.
 
