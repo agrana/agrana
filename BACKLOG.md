@@ -1,7 +1,7 @@
 # Backlog
 
 - [x] **Use the supplied PDF as the main CV on the GitHub profile**
-  - Added the user-supplied `Vinted-CV.pdf` unchanged as `assets/cv/Alfonso-Grana-CV.pdf`.
+  - Added the user-supplied `Vinted-CV.pdf` as `assets/cv/Alfonso-Grana-CV.pdf`, with the phone number permanently redacted for public use.
   - Linked it from the profile footer, keeping the introduction free of links.
 
 - [ ] **Update the separate CV landing page**
