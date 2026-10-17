@@ -54,4 +54,6 @@ Guitar, photography, music production with Ableton Live, reading, and home and g
 
 ---
 
+**[View my CV (PDF)](https://github.com/agrana/agrana/blob/main/assets/cv/Alfonso-Grana-CV.pdf)**
+
 Explore my [repositories](https://github.com/agrana?tab=repositories), see my [GitHub activity](https://github.com/agrana?tab=overview), or visit **[alfonsograna.com](https://alfonsograna.com)**.
