@@ -8,8 +8,6 @@ As **DevEx Tech Lead at Brenntag**, I set technical direction for developer plat
 
 I improve developer productivity and operational reliability through CI/CD, observability, cloud automation, and SRE practices. AI-assisted development is also part of how I build: I use Cursor, Claude Code, and AWS Kiro, with an interest in precise specifications and governed adoption across engineering and broader knowledge teams.
 
-[Website & writing](https://alfonsograna.com) · [CV (2025)](https://github.com/agrana/cv/blob/gh-pages/resume-2025.pdf) · [SavedTube](https://github.com/agrana/savedtube) · [X / @agrana](https://twitter.com/agrana)
-
 ## Professional track record
 
 - **Brenntag — DevEx Tech Lead (June 2025–present); Developer Experience Engineer (January 2024–May 2025):** designed and led the internal developer platform strategy, with reusable CI/CD building blocks used by **200+ GitLab projects**. Consolidated security tooling across the SDLC to improve adoption and reduce cognitive load.
